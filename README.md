@@ -7,6 +7,6 @@ Webpack5 config for quickly start
 copy to git bash:  
 ```
 git clone https://github.com/Ra-Naun/temp.webpack5-boilerplate.base.git
-cd tc.webpack-boilerplate.base
+cd temp.webpack-boilerplate.base
 npm i
 ```
