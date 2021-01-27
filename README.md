@@ -6,7 +6,7 @@ Webpack config for quickly start
 ## Install:
 copy to git bash:  
 ```
-git clone https://github.com/Ra-Naun/tc.webpack-boilerplate.base.git
+git clone https://github.com/Ra-Naun/temp.webpack5-boilerplate.base.git
 cd tc.webpack-boilerplate.base
 npm i
 ```
