@@ -1,5 +1,5 @@
-## tc.webpack-boilerplate.base
-Webpack config for quickly start
+## temp.webpack5-boilerplate.base
+Webpack5 config for quickly start
 
 # in work...
 
